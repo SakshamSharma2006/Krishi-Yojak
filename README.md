@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
   <h1>Krishi Yojak 🌱</h1>
   <img src="logo.jpg" alt="Krishi Yojak Logo" width="220" style="border-radius: 50%;"/>
-</p>
+</div>
 
 ---
 
@@ -37,4 +37,4 @@ The app was developed as part of **Smart India Hackathon 2025** by **Team MisFit
 
 ## 📧 Contact  
 For any queries or feedback, please reach out to the team leader:  
-**fyit.bhumika@gmail.com**  
+**fyit.bhumika@gmail.com**
