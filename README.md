@@ -1,6 +1,8 @@
 # Krishi Yojak 🌱
 
-![Krishi Yojak Logo](logo.jpg)
+<p align="center">
+  <img src="logo.jpg" alt="Krishi Yojak Logo" width="250"/>
+</p>
 
 ---
 
