@@ -1,6 +1,5 @@
-# Krishi Yojak 🌱
-
 <p align="center">
+  <h1>Krishi Yojak 🌱</h1>
   <img src="logo.jpg" alt="Krishi Yojak Logo" width="250"/>
 </p>
 
