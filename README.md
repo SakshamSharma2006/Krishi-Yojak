@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Krishi Yojak 🌱</h1>
-  <img src="logo.jpg" alt="Krishi Yojak Logo" width="220" style="border-radius: 50%;"/>
+  <img src="logo.jpg" alt="Krishi Yojak Logo" width="220" style="border-radius: 20px;"/>
 </div>
 
 ---
